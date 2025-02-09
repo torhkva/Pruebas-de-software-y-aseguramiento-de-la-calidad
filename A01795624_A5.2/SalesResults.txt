@@ -1,0 +1,5 @@
+Total Sales Cost: $165235.37
+Execution Time: 0.0000 seconds
+Errors:
+Error: Product 'Elotes' not found in list.
+Error: Product 'Frijoles' not found in list.
