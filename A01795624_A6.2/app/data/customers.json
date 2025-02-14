@@ -1,0 +1,9 @@
+[
+    {
+        "customer_id": 1,
+        "name": "Victor Vazquez",
+        "email": "victor@tec.mx",
+        "reservation_id": 1,
+        "has_reservation": true
+    }
+]

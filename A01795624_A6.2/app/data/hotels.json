@@ -1,0 +1,16 @@
+[
+    {
+        "hotel_id": 1,
+        "name": "RIU PALACE LAS AMERICAS",
+        "location": "CANCUN",
+        "rooms": 203,
+        "available_rooms": 203
+    },
+    {
+        "hotel_id": 2,
+        "name": "CITY EXPRESS",
+        "location": "GUADALAJARA",
+        "rooms": 100,
+        "available_rooms": 100
+    }
+]
